@@ -8,7 +8,7 @@ Software Engineer with a great passion about web development. Now I am fully foc
 *   Redis, RabbitMQ, Docker
 *   GitHub/GitLab, Docker
 
-## Work experience
+## 🥅 Work experience
 * Currently working in [LAD IT](https://www.linkedin.com/company/it-company-lad/)
 * 2015-2021 freelance developer
   * Web site and CRM development with PHP and MySQL.
@@ -17,7 +17,7 @@ Software Engineer with a great passion about web development. Now I am fully foc
   * Developing web-parsers and scrapers for defining suppliers' goods and its prices.
   * Developing calltracking and emailtracking system.
 
-## Contacts
+## 📱 Contacts
 <a href="https://t.me/dimal_xeev" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
