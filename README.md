@@ -4,7 +4,7 @@ Software Engineer with a great passion about web development. Now I am fully foc
 ## 🛠 Technical Stack
 *   JavaScript/TypeScript/Nodejs
 *   MySQL, PostgreSQL, MongoDB
-*   Framworks: Express, Hapi, Nest, Next
+*   Frameworks: Express, Hapi, Nest, Next
 *   Redis, RabbitMQ, Docker
 *   GitHub/GitLab, Docker
 
