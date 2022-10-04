@@ -14,3 +14,12 @@ Software Engineer with a great passion about web development. Now I am fully foc
 *   Framworks: Express, Hapi, Nest, Next
 *   Redis, RabbitMQ, Docker
 *   GitHub/GitLab, Docker
+
+## Work experience
+* Currently working in [LAD IT](https://www.linkedin.com/company/it-company-lad/)
+* 2015-2021 freelance developer
+  * Web site and CRM development with PHP and MySQL.
+  * Integration with different APIs.
+  * Workflow automation.
+  * Developing web-parsers and scrapers for defining suppliers' goods and its prices.
+  * Developing calltracking and emailtracking system.
