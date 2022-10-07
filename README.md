@@ -1,5 +1,5 @@
 # Hi, I'm Dmitrii 👋
-Software Engineer with a great passion about web development. Now I am fully focused on developing backend parts of web applications and restful api's using Nodejs and Typescript, anyway I have experience in building SPA with Reactjs.
+Software Engineer with a great passionate about web development. Now I am fully focused on developing backend parts of web applications and restful api's using Nodejs and Typescript, anyway I have experience in building SPA with Reactjs.
 
 ## 🛠 Technical Stack
 *   JavaScript/TypeScript/Nodejs
