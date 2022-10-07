@@ -10,7 +10,7 @@ Software Engineer with a great passionate about web development. Now I am fully 
 
 ## 🥅 Work experience
 * Currently working in [LAD IT](https://www.linkedin.com/company/it-company-lad/)
-* 2015-2021 freelance developer
+* 2015-2021 self employed
   * Web site and CRM development with PHP and MySQL.
   * Integration with different APIs.
   * Workflow automation.
