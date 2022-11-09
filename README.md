@@ -5,16 +5,17 @@ Software Engineer with a great passionate about web development. Now I am fully 
 *   JavaScript/TypeScript/Nodejs
 *   MySQL, PostgreSQL, MongoDB
 *   Frameworks: Express, Hapi, Nest, Next
-*   Redis, RabbitMQ, Docker
+*   Redis, RabbitMQ
 *   GitHub/GitLab, Docker
 
 ## 🥅 Work experience
 * Currently working in [LAD IT](https://www.linkedin.com/company/it-company-lad/)
 * 2015-2021 self employed
-  * Web site and CRM development with PHP and MySQL.
+  * Web site and CRM development.
   * Integration with different APIs.
   * Workflow automation.
-  * Developing web-parsers and scrapers for defining suppliers' goods and its prices.
+  * Developing Telegram Bots
+  * Developing web-parsers and scrapers for defining suppliers' goods and their prices.
   * Developing calltracking and emailtracking system.
 
 ## 📱 Contacts
