@@ -10,7 +10,7 @@ Software Engineer with a great passionate about web development. Now I am fully 
 
 ## 🥅 Work experience
 * Currently working at [TINKOFF](https://www.linkedin.com/company/tinkoff/)
-* 2015-2021 freelance developer
+* 2015-2021 self-employed
   * Web site and CRM development
   * Integration with internal APIs
   * Workflow automation
