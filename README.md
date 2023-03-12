@@ -5,17 +5,17 @@ Software Engineer with a great passion about web development. Now I am fully foc
 *   JavaScript/TypeScript/Nodejs
 *   MySQL, PostgreSQL, MongoDB
 *   Frameworks: Express, Hapi, Nest, Next
-*   Redis, RabbitMQ, Docker
+*   Redis, RabbitMQ
 *   GitHub/GitLab, Docker
 
 ## 🥅 Work experience
-* Currently working in [LAD IT](https://www.linkedin.com/company/it-company-lad/)
+* Currently working at [TINKOFF](https://www.linkedin.com/company/tinkoff/)
 * 2015-2021 freelance developer
-  * Web site and CRM development with PHP and MySQL.
-  * Integration with different APIs.
-  * Workflow automation.
-  * Developing web-parsers and scrapers for defining suppliers' goods and its prices.
-  * Developing calltracking and emailtracking system.
+  * Web site and CRM development
+  * Integration with internal APIs
+  * Workflow automation
+  * Developing web-parsers and scrapers
+  * Developing calltracking and emailtracking system
 
 ## 📱 Contacts
 <a href="https://t.me/dimal_xeev" target="_blank">
